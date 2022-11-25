@@ -3,7 +3,7 @@
 
 ## Impact of time scales on proportion of asymptomatic transmission and incidence
 
-Jeremy presented poster \n
+Jeremy presented poster 
 
 Collaboration between Jeremy Harris, Sang Woo Park, and others
 
